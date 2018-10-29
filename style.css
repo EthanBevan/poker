@@ -1,0 +1,192 @@
+body {
+	background-color: darkgreen;
+}
+
+.titleofDocument h2 {
+	color: firebrick;
+  text-align: center;
+  background-color: ghostwhite;
+  margin: 0px 450px 0px 450px;
+  padding: 10px;
+  border-radius: 30px
+  font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+
+.buttons {
+  float: right;
+  padding: 30px;
+}
+
+.newRoundbutton {
+ margin: 70px 40px 30px 55px;
+}
+
+h2 {
+  color: white;
+  text-align: left;
+  font-family: 'Oleo Script Swash Caps', cursive;
+
+}
+
+.playerOneTitle h2 {
+   color: white;
+  text-align: center;
+  background-color: firebrick;
+  padding: 5px;
+  border-radius: 30px
+  font-family: 'Oleo Script Swash Caps', cursive;
+
+}
+
+.playerTwoTitle h2 {
+  color: white;
+  text-align: center;
+  background-color: blue;
+  padding: 5px;
+  border-radius: 30px
+  font-family: 'Oleo Script Swash Caps', cursive;
+
+}
+
+
+
+.main h2 {
+  color: white;
+  text-align: center;
+}
+
+#jstext {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  background-color: black;
+  border-radius: 25px;
+  margin: 20px;
+  border: 2px solid white;
+}
+
+#playerOne {
+	text-align: center;
+  font-size: 30px;
+  color: white;
+  background-color: firebrick;
+  border-radius: 25px;
+  margin: 20px;
+  border: 2px solid white;
+}
+
+#computerOne {
+	text-align: center;
+  font-size: 30px;
+  color: white;
+  background-color: navy;
+  border-radius: 25px;
+  margin: 20px;
+  border: 2px solid white;
+}
+
+#burn {
+    text-align: center;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+  border-radius: 25px;
+  margin: 20px;
+  border: 2px solid white;
+}
+
+.flopCards img {
+ height: 195px;
+ width: auto;
+
+}
+
+.turnRiver  {
+  margin-left: -930px;
+}
+
+
+
+.players img {
+ height: 195px;
+ width: auto;
+
+}
+
+.main {
+  text-align: center;
+}
+
+.players {
+  margin: 0px 80px 80px 50px;
+  float: left;
+}
+
+.computers {
+  padding: 30px 30px 40px 50px;
+}
+
+.turnCard {
+  float: left;
+ margin: 0px -750px 80px 90px;
+}
+
+button {
+  color: white;
+  margin: 0px 0px 0px 5px;
+   border: 0px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-shadow: inset 0 0 5px black;
+      background-color: firebrick;
+        padding: 10px;
+        float: left;
+font-size: 20px
+}
+
+#myBtnOne {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+#myBtnOne:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+...
+
+
+#myBtnTwo {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+#myBtnTwo:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+...
+
+
+#myBtnThree {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+#myBtnThree:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+...
+
+#myBtnFour {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+#myBtnFour:hover {
+  background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+
